@@ -1,0 +1,17 @@
+{
+  "name": "localstorage",
+  "version": "1.0.0",
+  "description": "A abstraction to store JSON at localstorage",
+  "main": "localstorage.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggviana/localstorage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggviana/localstorage/issues"
+  },
+  "homepage": "https://github.com/ggviana/localstorage#readme"
+}
